@@ -43,7 +43,6 @@ While basic sentiment analysis classifies text as positive or negative, this pro
   * **Frustration / Anger:** ~496 occurrences
   * **Fear / Concern:** ~171 occurrences
 
-> *(Tip: Insert your exported Seaborn plot images here in the repository!)*
 
 ---
 
